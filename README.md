@@ -8,7 +8,7 @@
 * Imported each file to [Tableau](https://public.tableau.com/app/profile/daniel.moreno3206/viz/COVIDAnalyses/Dashboard1) and created the following data visualizations: 
 * ### 1. Covid Global Numbers
 
-![](/images/Covid%20Global%20Numbers.png)
+<img src="https://github.com/danihmoreno/Project-1-Covid-Analyses/blob/main/images/Covid%20Global%20Numbers.png"/>
 
 * ### 2. Covid Deaths by Continent
 
