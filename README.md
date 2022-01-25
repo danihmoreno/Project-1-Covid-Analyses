@@ -12,20 +12,20 @@
 
 * ### 2. Covid Deaths by Continent
 
-![](/images/Total%20Death%20Count%20by%20Continent.png)
+![](https://raw.githubusercontent.com/danihmoreno/Project-1-Covid-Analyses/main/images/Total%20Death%20Count%20by%20Continent.png)
 
 * ### 3. Percent of Population Infected by Covid per Country
 
-![](/images/Percent%20of%20Population%20Infected%20by%20Covid%20per%20Country.png)
+![](https://raw.githubusercontent.com/danihmoreno/Project-1-Covid-Analyses/main/images/Percent%20of%20Population%20Infected%20by%20Covid%20per%20Country.png)
 
 * ### 4. Percent of Population Infected by Covid
 
-![](/images/Percent%20of%20Population%20Infected%20by%20Covid.png)
+![](https://raw.githubusercontent.com/danihmoreno/Project-1-Covid-Analyses/main/images/Percent%20of%20Population%20Infected%20by%20Covid.png)
 
 * ### 5. Total Vaccines Applied per Continent
 
-![](/images/Total%20Vaccines%20Applied%20per%20Continent.png)
+![](https://raw.githubusercontent.com/danihmoreno/Project-1-Covid-Analyses/main/images/Total%20Vaccines%20Applied%20per%20Continent.png)
 
 * ### 6. Total Vaccines Applied in Relation to Population
 
-![](/images/Total%20Covid%20Vaccines%20Applied%20in%20Relation%20to%20Population.png)
+![](https://raw.githubusercontent.com/danihmoreno/Project-1-Covid-Analyses/main/images/Total%20Covid%20Vaccines%20Applied%20in%20Relation%20to%20Population.png)
